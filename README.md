@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<!--
-**jchWill/jchWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ### I'm currently an undergraduate at School of Software ,Shanghai Jiao Tong Univ.
 
-
+<!--
+**jchWill/jchWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on webapp...
 - 🌱 I’m currently learning ICS ,Advanced Data Structure...
